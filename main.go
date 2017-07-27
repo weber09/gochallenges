@@ -3,5 +3,5 @@ package main
 import "gochallenges/readchangefile"
 
 func main(){
-	readchangefile.ChangeFile("dummyFile.csv")
+	readchangefile.ChangeFile("DummyFile.csv")
 }
